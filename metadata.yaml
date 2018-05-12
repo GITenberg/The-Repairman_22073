@@ -1,0 +1,38 @@
+_repo: The-Repairman_22073
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harrison, Harry
+    aliases:
+    - Dempsey, Henry Maxwell
+    - Harrison, Henry Maxwell
+    birthdate: 1925
+    deathdate: 2012
+    gutenberg_agent_id: '25395'
+    url: http://www.gutenberg.org/2009/agents/25395
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Harrison_%28writer%29
+description: The Mark III Hyperspace Beacon was the earliest type of beacon ever built
+  -- by Earth, no less. It was located on one of the Proxima Centauri planets, and
+  it wasn't working. This was one of those jobs when being an interstellar trouble-shooter
+  wouldn't have been so bad -- if he could have shot the trouble! A classic science
+  fiction tale from the author of the "Stainless Steel Rat," "Bill the Galactic Hero,"
+  and "Eden" series!
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+title: The Repairman
+url: http://www.gutenberg.org/ebooks/22073
